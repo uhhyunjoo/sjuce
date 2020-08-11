@@ -1,5 +1,5 @@
 # sjuce
-학고 가이드
+학교 가이드
 
 Wifi
 이름 | ID | PW
