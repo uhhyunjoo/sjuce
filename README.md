@@ -73,4 +73,4 @@ eduroam | 학번@sejong.ac.kr | 학사정보시스템 비밀번호 | 롤 가능 
 ### 더치 - 더 완벽한 위치찾기
 * 사용자가 입력한 위치들의 중간지점을 찾아주는 어플리케이션
 * 여러 명이 만날 때 약속 장소 정하기 편함
-  + (playStore)(https://play.google.com/store/apps/details?id=com.dutch2019)
+  + [playStore](https://play.google.com/store/apps/details?id=com.dutch2019)
